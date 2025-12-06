@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "The Book Thief",
+    "cover": "cover1",
+    "description": "The story of a girl who survives the horrors of war."
+  },
+  {
+    "id": 2,
+    "title": "Three Comrades",
+    "cover": "cover2",
+    "description": "A dramatic tale about friendship and love."
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "cover": "cover3",
+    "description": "A dystopia about totalitarianism and control over consciousness."
+  },
+  {
+    "id": 4,
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "cover": "cover4",
+    "description": "The beginning of the adventures of a young wizard."
+  },
+  {
+    "id": 5,
+    "title": "The Hunger Games",
+    "cover": "cover5",
+    "description": "A story of survival in a deadly competition."
+  },
+  {
+    "id": 6,
+    "title": "Shantaram",
+    "cover": "cover6",
+    "description": "An epic novel about a criminal’s life in India."
+  },
+  {
+    "id": 7,
+    "title": "The Alchemist",
+    "cover": "cover7",
+    "description": "A parable about dreams and self-discovery."
+  },
+  {
+    "id": 8,
+    "title": "The Little Prince",
+    "cover": "cover8",
+    "description": "A philosophical story for both children and adults."
+  },
+  {
+    "id": 9,
+    "title": "Atlas Shrugged",
+    "cover": "cover9",
+    "description": "A philosophical novel by Ayn Rand about the power of individuality."
+  },
+  {
+    "id": 10,
+    "title": "Jane Eyre",
+    "cover": "cover10",
+    "description": "A classic story of love and self-respect."
+  },
+  {
+    "id": 11,
+    "title": "Pet Sematary",
+    "cover": "cover11",
+    "description": "A mystical horror story by Stephen King."
+  },
+  {
+    "id": 12,
+    "title": "The Great Gatsby",
+    "cover": "cover12",
+    "description": "A tragic love story set in the Jazz Age."
+  },
+  {
+    "id": 13,
+    "title": "Crime and Punishment",
+    "cover": "cover13",
+    "description": "A psychological novel about moral dilemmas."
+  },
+  {
+    "id": 14,
+    "title": "The Abandoned",
+    "cover": "cover14",
+    "description": "An emotional novel about betrayal and healing."
+  },
+  {
+    "id": 15,
+    "title": "Promise at Dawn",
+    "cover": "cover15",
+    "description": "An autobiographical story about a mother's love."
+  },
+  {
+    "id": 16,
+    "title": "The Da Vinci Code",
+    "cover": "cover16",
+    "description": "A detective thriller filled with historical mysteries."
+  },
+  {
+    "id": 17,
+    "title": "Pollyanna",
+    "cover": "cover17",
+    "description": "An inspiring story about the power of positive thinking."
+  },
+  {
+    "id": 18,
+    "title": "The Chronicles of Narnia",
+    "cover": "cover18",
+    "description": "A fantasy world where children embark on adventures."
+  },
+  {
+    "id": 19,
+    "title": "Flowers for Algernon",
+    "cover": "cover19",
+    "description": "A tragic story about an experiment on human intelligence."
+  },
+  {
+    "id": 20,
+    "title": "All Quiet on the Western Front",
+    "cover": "cover20",
+    "description": "An anti-war classic about the lives of soldiers."
+  },
+  {
+    "id": 21,
+    "title": "Lord of the Flies",
+    "cover": "cover21",
+    "description": "An allegory about society, power, and morality."
+  },
+  {
+    "id": 22,
+    "title": "Fahrenheit 451",
+    "cover": "cover22",
+    "description": "A world where books are banned and burned."
+  },
+  {
+    "id": 23,
+    "title": "The Art of War",
+    "cover": "cover23",
+    "description": "A philosophical treatise about strategy and tactics."
+  }
+]
