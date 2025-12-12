@@ -1,4 +1,4 @@
-# 📚 MiniReader — Бібліотека книг
+![photo_2025-12-12_16-31-19](https://github.com/user-attachments/assets/18e92c61-481b-45a6-b727-81643b93b893)# 📚 MiniReader — Бібліотека книг
 
 **MiniReader** — це Android-застосунок для пошуку, перегляду та організації особистої електронної бібліотеки. Проєкт розроблено як підсумкову роботу курсу Android-розробки.
 
@@ -10,7 +10,7 @@
 
 | Головний екран | Пошук | Деталі книги | Моя бібліотека |
 |:---:|:---:|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400?text=Home" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Search" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Details" width="200"/> | <img src="https://via.placeholder.com/200x400?text=My+Lib" width="200"/> |
+|![photo_2025-12-12_16-31-19](https://github.com/user-attachments/assets/1cf2d321-f4f9-4939-b491-749344d0bf5d) | <img src="https://via.placeholder.com/200x400?text=Search" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Details" width="200"/> | <img src="https://via.placeholder.com/200x400?text=My+Lib" width="200"/> |
 
 ---
 
